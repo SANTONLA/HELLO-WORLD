@@ -26,7 +26,7 @@ Este repositorio es una iniciativa personal para organizar y compartir ideas nue
 
 Consultas con SQL
 
-Proyectos con R Studio
+Proyectos con R Studio Y Python
 
 Paneles de datos en Power BI
 
